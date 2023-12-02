@@ -1,5 +1,5 @@
 /*
-	Write a script to calculate the area of a rectangle with sides, which values values are stored in the values variable as a string.
+	Write a script to calculate the area of a rectangle with sides, which values are stored in the values variable as a string.
 	Values guaranteed separated by a space.
 */
 
